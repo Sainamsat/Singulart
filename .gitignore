@@ -17,6 +17,8 @@ jspm_packages/
 
 
 node_modules/
+backend/node_modules/
+singulart/node_modules/
 
 
 ### vscode ###
